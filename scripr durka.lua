@@ -1,2 +1,2 @@
-SCRIPT_KEY = "aa83e524-4d94-4b66-a1e9-d08335a70ddd"
+SCRIPT_KEY = "3c373882-a551-4881-9742-eba6cd7e9dff"
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a916ab67aecf1d311b1b02b6bbc907ed8dab95cb7a4323023fea59cdd461af2d/download"))()
